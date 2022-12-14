@@ -1,7 +1,7 @@
 // config
 const serviceUrl = "https://api-rule34-production.up.railway.app";
 const autoCompleteUrl = "https://rule34.xxx/autocomplete.php";
-
+//Blok
 // angular
 var app = angular.module('r34App', ['infinite-scroll']);
 app.controller('r34Ctrl', function ($http) {
